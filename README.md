@@ -34,15 +34,8 @@ After logging in or creating a new account, the main menu will show the followin
 
 #### Authors
 
-<<<<<<< HEAD
--Vincent Marks
+*[Vincent Marks](https://www.github.com/vimarks)
 
--Alec Reid
+*[Alec Reid](https://www.github.com/areid0093)
 
--Wookeun Song
-=======
-*Vincent Marks
-
-*Alec Reid
-
-*Wookeun Song
+*[Wookeun Oscar Song](https://www.github.com/bigg-o)
