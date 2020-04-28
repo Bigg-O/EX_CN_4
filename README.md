@@ -46,4 +46,3 @@ After logging in or creating a new account, the main menu will show the followin
 *Alec Reid
 
 *Wookeun Song
->>>>>>> 5e248800128ec91cf3db5f65d88b08107a789dbd
